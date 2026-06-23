@@ -3,3 +3,11 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+.flights {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 20px 0;
+  align: center;
+  box-shadow: 0 0 10px
+}
