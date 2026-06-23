@@ -32,3 +32,12 @@ Main background - #D4A76A*/
   cursor: pointer;
   text-decoration: none;
 }
+
+.main-nav {
+  background-color: #805215;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-decoration: none;
+}
