@@ -32,6 +32,9 @@ Main background - #D4A76A*/
   padding: 10px 20px;
   cursor: pointer;
   text-decoration: none;
+  margin: 20px auto;
+  display: block;
+  width: 90%;
 }
 
 .nav-links {
