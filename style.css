@@ -33,7 +33,7 @@ Main background - #D4A76A*/
   text-decoration: none;
 }
 
-.main-nav {
+.nav-links {
   display: flex;
   justify-content: space-between;
   gap: 5px
