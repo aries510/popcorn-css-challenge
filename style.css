@@ -52,7 +52,7 @@ Main background - #D4A76A*/
   align-items: center;
 }
 
-.nav-item a {
+.nav-item {
   background-color: #805215;
   color: white;
   border: none;
