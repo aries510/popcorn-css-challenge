@@ -71,5 +71,7 @@ Main background - #D4A76A*/
   box-shadow: 0 0 10px;
   background-color: white;
   display: block;
-  clear: both
+  clear: both;
+  margin-block: 0;
+  
 }
