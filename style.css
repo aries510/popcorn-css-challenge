@@ -74,3 +74,13 @@ Main background - #D4A76A*/
   clear: both;
 
 }
+
+.about-btn {
+  background-color: #805215;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-decoration: none;
+  width: 90%;
+}
