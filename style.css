@@ -51,3 +51,12 @@ Main background - #D4A76A*/
   justify-content: space-between;
   align-items: center;
 }
+
+.nav-items {
+  background-color: #805215;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-decoration: none;
+}
