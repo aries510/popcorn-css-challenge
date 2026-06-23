@@ -17,7 +17,8 @@ Main background - #D4A76A*/
 
 .main-content {
   display: flex;
-  gap: 5px
+  gap: 5px;
+  margin-top: 20px;
 }
 
 .body {
