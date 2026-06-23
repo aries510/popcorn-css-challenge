@@ -35,6 +35,6 @@ Main background - #D4A76A*/
 
 .nav-links {
   display: flex;
-  justify-content: space-between;
+  justify-content: right;
   gap: 5px
 }
