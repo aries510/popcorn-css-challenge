@@ -34,10 +34,6 @@ Main background - #D4A76A*/
 }
 
 .main-nav {
-  background-color: #805215;
-  color: white;
-  border: 1px solid transparent;
-  padding: 10px 20px;
-  cursor: pointer;
-  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
 }
