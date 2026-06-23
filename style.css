@@ -52,13 +52,11 @@ Main background - #D4A76A*/
   align-items: center;
 }
 
-.nav-items {
+.nav-items a {
   background-color: #805215;
   color: white;
   border: none;
   padding: 10px 20px;
   cursor: pointer;
-  text-decoration: none;
-  color: inherit;
-  font: inherit;
+  text-decoration: none;;
 }
