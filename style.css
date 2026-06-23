@@ -23,3 +23,11 @@ Main background - #D4A76A*/
 .body {
   background-color: #D4A76A;
 }
+
+.btn {
+  background-color: #805215;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
