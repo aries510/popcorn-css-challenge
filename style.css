@@ -7,8 +7,8 @@ Main background - #D4A76A*/
 .flights {
   border: 1px solid black;
   width:300px;
-  padding: 10px;
-  margin: 10px auto;
+  padding: 20px;
+  margin: 20px auto;
   text-align: center;
   box-shadow: 0 0 10px;
   background-color: white;
