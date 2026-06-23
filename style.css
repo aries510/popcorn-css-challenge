@@ -82,7 +82,6 @@ Main background - #D4A76A*/
   padding: 10px 20px;
   cursor: pointer;
   text-decoration: none;
-  margin: 10px auto;
-  display: inline-block;
-  width: 100%;
+  margin: 10px;
+  text-align: center;
 }
