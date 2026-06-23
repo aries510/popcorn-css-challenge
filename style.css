@@ -35,7 +35,7 @@ Main background - #D4A76A*/
 
 .nav-links {
   display: flex;
-  justify-content: right;
+  justify-content: flex-end;
   gap: 5px
 }
 
@@ -45,4 +45,5 @@ Main background - #D4A76A*/
   padding: 10px;
   text-align: left;
   display: flex;
+  justify-content: space-between;
 }
