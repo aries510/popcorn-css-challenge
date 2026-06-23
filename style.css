@@ -46,4 +46,5 @@ Main background - #D4A76A*/
   text-align: left;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
