@@ -59,4 +59,6 @@ Main background - #D4A76A*/
   padding: 10px 20px;
   cursor: pointer;
   text-decoration: none;
+  color: inherit;
+  font: inherit;
 }
