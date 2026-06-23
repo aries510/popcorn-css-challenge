@@ -33,7 +33,8 @@ Main background - #D4A76A*/
   cursor: pointer;
   text-decoration: none;
   margin: 20px auto;
-  display: block;
+  display: flex;
+  flex-direction: column;
   width: 90%;
 }
 
@@ -86,6 +87,7 @@ Main background - #D4A76A*/
   cursor: pointer;
   text-decoration: none;
   margin: 20px auto;
-  display: block;
+  display: flex;
+  flex-direction: column;
   width: 90%;
 }
