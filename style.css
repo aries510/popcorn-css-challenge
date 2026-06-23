@@ -43,5 +43,6 @@ Main background - #D4A76A*/
   background-color: #FFDBAA;
   color: #553100;
   padding: 10px;
-  text-align: center;
+  text-align: left;
+  display: flex;
 }
