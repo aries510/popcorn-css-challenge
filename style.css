@@ -61,3 +61,14 @@ Main background - #D4A76A*/
   cursor: pointer;
   text-decoration: none;;
 }
+
+.about-us {
+  border: 1px solid black;
+  width:300px;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: center;
+  box-shadow: 0 0 10px;
+  background-color: white;
+  margin-block: 0;
+}
