@@ -38,3 +38,10 @@ Main background - #D4A76A*/
   justify-content: right;
   gap: 5px
 }
+
+.header {
+  background-color: #FFDBAA;
+  color: #553100;
+  padding: 10px;
+  text-align: center;
+}
