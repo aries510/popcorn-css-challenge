@@ -17,3 +17,7 @@ Main background - #D4A76A*/
   display: flex;
   gap: 5px
 }
+
+.body {
+  background-color: #D4A76A;
+}
